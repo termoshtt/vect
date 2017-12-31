@@ -1,0 +1,7 @@
+[package]
+authors = ["Toshiki Teramura <toshiki.teramura@gmail.com>"]
+name = "vect"
+version = "0.1.0"
+
+[dependencies]
+num-traits = "0.1.41"
